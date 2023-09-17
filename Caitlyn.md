@@ -2,16 +2,16 @@
 
 ## Q -
 
-	> Pseudo-Request:
-	> - Aggressive mode
-	> - By default, Q will not be cast often, due to the long animations
-	> - Pseudo-Request overrides restrictions and requests Q
-
-
-
-	> - Kill Steal logic
-	> - Min. hits slider for PvE/Clear
-	> - Custom prediction
+>	Pseudo-Request:
+>	 - Aggressive mode
+>	 - By default, Q will not be cast often, due to the long animations
+>	 - Pseudo-Request overrides restrictions and requests Q
+>
+>
+>
+>	 - Kill Steal logic
+>	 - Min. hits slider for PvE/Clear
+>	 - Custom prediction
 
 Advanced:
 	The advanced menu contains preferences for Hitchance, triggers, and safety checks
