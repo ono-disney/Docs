@@ -1,6 +1,6 @@
 # Vayne
 
-## - Quick Tips
+## Quick Tips
 
 *Aggressive and Defensive mode both remove restrictions on E usage*
 
