@@ -1,15 +1,34 @@
 # Vayne
 
+## - Quick Tips
+
+*Aggressive and Defensive mode both remove restrictions on E usage*
+
+
+**Harass + Defensive mode:** * activates Q trading logic
+- *Read more about this feature below*
+- *Configurable keybind*
+
+**Combo + Defensive:** uses safer movement and Q positioning
+**Combo + Aggressive:** for aggressive Q spam
+
+Make sure to configure a keybind for the **Flash + E** mechanic
+
+hf :D
+
+---
+
 ## Q -
 
 ### SBTW
 
-Spacebar-To-Win is the default configuration for new Vayne. It does almost everything for you.
-Modifiers still are important, but by default, spellcasts are not locked behind modifiers.
+Spacebar-To-Win is the default configuration for new Vayne. It does everything for you, modifiers provide advanced functions.
 
 SBTW (default) will cast Q / E for many events.  Examples include repositioning yourself with Q to condemn, situationally proccing W, engaging/chasing/spacing, and many more.
 
 Modifier keys are used to override restrictions and safety checks.
+
+*There are several saferty options and restrictions you can configure, but it is better to use default settings, and report any issues you have.*
 
 ---
 
@@ -74,10 +93,10 @@ Listed below are the main events, and their configuration options. SBTW settings
 
 ---
 
-## W -
+### W
 
-There is preconfigured logic for farming and W stacks.
-Target override to prioritize marked targets.
+There is advanced logic for W optimization, for PvP and farming.
+Target override to prioritize marked units.
 
 Target Selector Override Logic
 - Smart
@@ -99,14 +118,15 @@ E should work smoothly, report any issues.
 | Orb Mode              | Effect                                                       |
 |-----------------------|--------------------------------------------------------------|
 | Combo + Defensive     | **E to Kill**<br>Allow E to killable enemy without any stun (only to kill tho) |
-| Harass + Defensive    | **Anti-Gap E**<br>Allow E to push back enemy without any stun to proc w (no need to kill just proc) |
+| Harass + Defensive    | **E quick combo**<br>Allow E to push back enemy without any stun to proc w (no need to kill just proc) |
 | Combo / Harass + Agro | **Q+E stun**<br>Less restriction to stun <br>Less restriction to Q for stun |
 
 ---
 
-## R
+### R
 
 Deceive
+- Stealth Handler
 
 Automatic Q when R
 
