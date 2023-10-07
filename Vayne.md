@@ -73,16 +73,28 @@ Listed below are the main events, and their configuration options. SBTW settings
 | Kill Secure | - Aggro only                            |
 
 ---
----
 
 ## W -
 
-Simple target override logic for PvP and PvE.
+There is preconfigured logic for farming and W stacks.
+Target override to prioritize marked targets.
 
----
+Target Selector Override Logic
+- Smart
+- Always
+- Disabled
+
+Hold Extra Range (slider)
+
+Range multiplier (0-1)
+
+Angle Abort (slider)
+
 ---
 
 ## E -
+
+E should work smoothly, report any issues.
 
 | Orb Mode              | Effect                                                       |
 |-----------------------|--------------------------------------------------------------|
@@ -91,11 +103,20 @@ Simple target override logic for PvP and PvE.
 | Combo / Harass + Agro | **Q+E stun**<br>Less restriction to stun <br>Less restriction to Q for stun |
 
 ---
----
 
-## R - *Incomplete*
+## R
 
-Combo / Engage and Invisibility Duration configuration coming soon.
+Deceive
 
----
+Automatic Q when R
+
+Ult Handler:
+- Automatic
+- Custom
+- Disabled
+
+**Drawings**
+- Ult duration
+- Stealth duration
+
 ---
